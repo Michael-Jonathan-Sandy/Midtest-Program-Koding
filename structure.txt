@@ -1,0 +1,12 @@
+waiting-line/
+│
+├── app.py              # Flask app entry
+├── models.py           # Database models
+├── queue.db            # SQLite database (auto-created)
+├── templates/          # HTML templates (Jinja2)
+│   ├── index.html
+│   └── admin.html
+├── static/             # CSS / JS files
+│   └── style.css
+├── requirements.txt    # Dependencies
+└── README.md           # Documentation
